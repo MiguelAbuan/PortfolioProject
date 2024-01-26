@@ -1,1 +1,3 @@
-This Repository is for the Projects i made for my Portfolio
+This repository contains all the projects i made.
+
+________________________________________________________________________________________________________________________________________________________________________
