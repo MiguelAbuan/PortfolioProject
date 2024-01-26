@@ -1,3 +1,3 @@
-This repository contains all the projects i made.
+**This repository contains all the projects i made.**
 
 ________________________________________________________________________________________________________________________________________________________________________
