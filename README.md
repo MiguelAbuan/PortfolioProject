@@ -1,10 +1,8 @@
-**This repository contains all the projects I made from Alex The Analyst's Bootcamp**
+**This repository contains all the projects I made from Alex The Analyst's Bootcamp from
+SQL
+Excel
+Tableau
+Power BI
+ and Python Web Scraping and Crypto API Project + Automation**
 
-________________________________________________________________________________________________________________________________________________________________
 
-**SQL**
-
-Here i made two projects first is Data Cleaning of Nashville Housing and second is Data Exploration of COVID data.
-_______________________________________________________________________________________________________________________________________________________________
-
-**Excel**
